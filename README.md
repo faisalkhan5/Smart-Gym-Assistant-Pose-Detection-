@@ -10,3 +10,5 @@
 7. Joint which the count is done is shown along with the angle from 180
 8. Additional features include the fps (frame per second) of the video is shown
 9. Demo is given on the video but the code can be modified to be used on the camera which is connected to laptop/desktop and even on high end mobile phone
+
+![This is an image](https://github.com/faisalkhan5/Smart-Gym-Assistant-Pose-Detection--Minor-Project-/blob/main/Results/14.jpeg)
