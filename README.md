@@ -1,4 +1,4 @@
-# Smart-Gym-Assistant-Pose-Detection-(Minor Project)
+# Smart-Gym-Assistant-Pose-Detection-
 
 ## Objective and key features
 1. To Identify different poses of an Individual and provide feedback (Video) to the Individual if he/she need to do some correction in their exercise
